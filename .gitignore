@@ -1,1 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
 
+data/raw/
+data/outputs/
+*.xlsx
+
+ollama_rerank_cache/

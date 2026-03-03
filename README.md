@@ -1,12 +1,12 @@
 # LLM Gated Semantic Matching
 
-Sistema híbrido de emparejamiento semántico entre descripciones de proyectos y catálogos de políticas públicas utilizando embeddings con re-ranking opcional mediante LLM.
+Sistema híbrido de emparejamiento semántico entre indicadores de producto asociados a la estructura programática PART y catálogos de indicadores de producto de MGA utilizando embeddings con re-ranking opcional mediante LLM.
 
 ---
 
 ## 📌 Descripción General
 
-Este proyecto implementa un pipeline optimizado que asigna, para cada proyecto, las políticas más alineadas conceptualmente.
+Este proyecto implementa un pipeline optimizado que asigna, para indicador de producto PART, el indicador de producto PDT más alineados conceptualmente.
 
 El sistema combina:
 
